@@ -447,27 +447,16 @@
     align-items: flex-end;
     justify-content: end;
   }
-  .foot-panel1{
-    background-color:#f2cd99;
-    color:brown;
-    height: 280px;
-    justify-content: center;
-    align-items: center;
-    font-size: 1rem;
-    font-weight:600px;
-    border-top: 5px solid white;
-  }
-  ul{
-    margin-top: 20px;
-  }
-  ul a{
-    display: block;
-    font-size: 0.85rem;
-    margin-top: 8px;
-    color: #000000;
-    font-weight: 400px;
-  }
-.travel-section a{
-    text-decoration:none;
-    text-decoration:bold;
+ .footer-links {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columns */
+    gap: 10px 40px; /* row gap & column gap */
+    max-width: 900px;
+    margin: 50px auto;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #8c6e3e;
+    font-size: 16px;
 }
