@@ -155,7 +155,7 @@
     background-repeat: no-repeat;
     margin-top: 5px;
     margin-bottom: 10px;
-    margin-left: 55px;
+    margin-left: 35px;
   }
   .box-content{
     margin-left: 20px;
@@ -467,3 +467,7 @@
     color: #000000;
     font-weight: 400px;
   }
+.travel-section a{
+    text-decoration:none;
+    text-decoration:bold;
+}
