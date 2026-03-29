@@ -215,7 +215,7 @@
     background-repeat: no-repeat;
     margin-top: 5px;
     margin-bottom: 10px;
-    margin-left: 55px;
+    margin-left: 35px;
   }
   .box-content{
     margin-left: 20px;
@@ -284,7 +284,6 @@
     background-color:#d9a254;
   }
 .boxx{
-      /**border:2px solid black;**/
       height: 400px;
       width:15%;
       background-color:white;
@@ -295,9 +294,10 @@
   .box-image2{
     height: 320px;
     background-repeat: no-repeat;
-    margin-left: 35px;
+    margin-left: 25px;
   }
   .More-details{
+      margin-left: 10px;
     background-color: #c78b26;
     height: 30px;
     color: #f3f3f3;
@@ -372,7 +372,7 @@
   .box-image4{
     height: 320px;
     background-repeat: no-repeat;
-    margin-left: 28px;
+    margin-left: 20px;
   }
   .More-details{
     height:30px;
@@ -436,7 +436,7 @@
   .box-image3{
     height: 320px;
     background-repeat: no-repeat;
-    margin-left: 28px;
+    margin-left: 20px;
   }
   .More-details{
     height:30px;
