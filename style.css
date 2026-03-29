@@ -215,10 +215,8 @@
     background-repeat: no-repeat;
     margin-top: 5px;
     margin-bottom: 10px;
-    margin-left: 35px;
   }
   .box-content{
-    margin-left: 20px;
     margin-right: 10px;
   }
 .More-details{
@@ -294,7 +292,6 @@
   .box-image2{
     height: 320px;
     background-repeat: no-repeat;
-    margin-left: 25px;
   }
   .More-details{
       margin-left: 10px;
@@ -372,7 +369,6 @@
   .box-image4{
     height: 320px;
     background-repeat: no-repeat;
-    margin-left: 20px;
   }
   .More-details{
     height:30px;
@@ -436,7 +432,6 @@
   .box-image3{
     height: 320px;
     background-repeat: no-repeat;
-    margin-left: 20px;
   }
   .More-details{
     height:30px;
